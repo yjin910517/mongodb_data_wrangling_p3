@@ -1,0 +1,11 @@
+Raw Data Adopted in This Project:
+osm ready-to-use metro extract: Shanghai, China
+(https://mapzen.com/data/metro-extracts/metro/shanghai_china/)
+- I choose city Shanghai because this is the city I currently live in. I moved here 9 years ago for college and stayed here for work after graduation. This city is like my second hometown. Besides, Shanghai is also one of the most 'internationalized' city in China, so osm might contain richer data for Shanghai than for other China cities.
+
+
+  
+Coding Reference:
+- Udacity Course Materials: I copied some pieces of code from Udacity course exercise, and did some adjustment on them according to my specific need.
+- PyMongo Document: https://api.mongodb.com/python/current/api/pymongo/collection.html
+- MongoDB Document: https://docs.mongodb.com/manual/reference/
